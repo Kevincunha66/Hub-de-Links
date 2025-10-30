@@ -24,9 +24,9 @@ color: white;
 }
 
 #container {
-  width: 360px;
+  width: 100%;
   margin: auto;
-
+  max-width: 588px;
   padding: 0 24px
 }
 
